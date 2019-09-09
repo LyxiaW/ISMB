@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Welcome to International School of Music Bondi!
 description: We Teach Music Differently!
 description: For ages 2- Adults
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
