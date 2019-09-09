@@ -1,7 +1,5 @@
 ## Testimonials
 
-![Image of Yaktocat](https://github.com/LyxiaW/ISMB/commit/157f98600783a7926c650ae7c608145413b4c2d7#diff-1a420e6f6e9dc34e0e2e5f8b562ac19e)
-
 *My two sons have been attending ISM Bondi for a number of years now starting when they they were aged 4. They absolutely love their piano classes and have learnt so much in a short amount of time. They have attended both Group and Private lessons and continue to excel every week. The teachers are caring, encouraging and show pride in their students. I would highly recommend to parents who are looking to place their children into piano classes*
 
 **– Kerrie Dedecke (Parent)**
