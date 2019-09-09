@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Testimonials
 
-You can use the [editor on GitHub](https://github.com/LyxiaW/ISMB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*My two sons have been attending ISM Bondi for a number of years now starting when they they were aged 4. They absolutely love their piano classes and have learnt so much in a short amount of time. They have attended both Group and Private lessons and continue to excel every week. The teachers are caring, encouraging and show pride in their students. I would highly recommend to parents who are looking to place their children into piano classes*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**– Kerrie Dedecke (Parent)**
+ 
 
-### Markdown
+*Our kids have been learning piano with ISM Bondi for over a year. They play games, learn fun songs, play percussion instruments, and learn how to read and write music all while learning to play piano. They love it and I love it so much that I’m now learning to play too!*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**– Linda Hamilton (Parent)**
+ 
 
-```markdown
-Syntax highlighted code block
+*Professionalism, respect and an outstanding work ethic are the hallmarks of the school and students shine through a combined mix of application, fun and encouragement. The school provides the opportunity, through it’s annual concert, for children to showcase their musical ability from a very early age, as well as instilling confidence in performing to a wider audience.
+The school is dedicated to musical education at its best and its skilled and passionate teachers work enthusiastically towards this end with excellent results.*
 
-# Header 1
-## Header 2
-### Header 3
+**– Joan Keogh (Grandparent)**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Contact Us
 
-**Bold** and _Italic_ and `Code` text
+Address: Shop 1/ 79-85 Oxford St, Bondi Junction
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LyxiaW/ISMB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: ismbondi@ismaustralia.com
