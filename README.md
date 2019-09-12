@@ -1,6 +1,6 @@
 ## Testimonials
 
-<img src="!https://imgur.com/00BWlC6" alt="ismbondi" width="32" height="32">
+<img src="https://imgur.com/00BWlC6" alt="ismbondi" width="32" height="32">
 
 *My two sons have been attending ISM Bondi for a number of years now starting when they they were aged 4. They absolutely love their piano classes and have learnt so much in a short amount of time. They have attended both Group and Private lessons and continue to excel every week. The teachers are caring, encouraging and show pride in their students. I would highly recommend to parents who are looking to place their children into piano classes*
 
