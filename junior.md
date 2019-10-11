@@ -1,6 +1,6 @@
 ## Pianorama Junior Course  
 
-*For students  aged  7 – 12 years – Grouped in small age appropriate classes.*
+*For students  aged  4 – 6 years – Grouped in small age appropriate classes.*
 
 <img src="images/18121242_1945394909069149_8174843808573398308_o.jpg" alt="ismbondi" width="600" height="400">
 
