@@ -8,7 +8,7 @@ This age specific program aims to develop all aspects of early music fundamental
 
 Segments include:
 
-Pitch through a structured vocal program of original and known favourites
+#8226 Pitch through a structured vocal program of original and known favourites
 
 Music with movement and physical response
 
