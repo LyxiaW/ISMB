@@ -2,8 +2,6 @@
 
 *For students  aged  7 – 12 years – Grouped in small age appropriate classes.*
 
-Pianorama Junior Music Course comprises all the elements required to develop musical and technical skills for the young beginner. The curriculum is specifically written to encompass a wide range of musical activity, which enables concentration levels to be kept at the optimum during the lesson. A focus on developing a musical ear accelerates the process of achievement. Our classrooms are equipped with a digital piano for each student in the classroom, as well as a full range of percussion instruments. Magnetic music boards for all students simplify theoretical work and all piano pieces are learnt with the additional support of speed variable backing tracks. Our teachers are qualified both musically and in teaching young students.
-
 <img src="images/18121242_1945394909069149_8174843808573398308_o.jpg" alt="ismbondi" width="600" height="400">
 
 In each 45 minute weekly lesson, the students experience the following:
@@ -18,9 +16,7 @@ Musical Games – Fun activities involving learnt skills
 
 ## Pianorama Primary Course
 
-*For students  aged  7 – 12 years – Grouped small age appropriate classes.*
-
-This course is aimed for students with no previous experience in piano tuition. The focus primarily is to teach the piano as the practical instrument, whilst simultaneously developing strong aural and theoretical skills. Teaching in a group environment for this age is particularly beneficial from the learning perspective, as the students enjoy learning together and aspire to reach standards set by one another. With regular home practice, the students fly through this curriculum and can feel progress from the early stages, which in turn encourages them to continue through to more advanced levels.
+*For students  aged  7 – 12 years – Grouped in small age appropriate classes.*
 
 <img src="images/26961745_2075500332725272_1848297573837803827_o.jpg" alt="ismbondi" width="600" height="400">
 
@@ -36,3 +32,8 @@ Music Appreciation – to analyse popular musical classics.
 Musical Games – to enjoy testing learnt skills through fun activities.
 A comprehensive musical education developing not just the technician but also the musician!
 
+## Pianorama Intermediate and Extension Courses
+
+For Junior and Primary Course graduates, to further expand musical and technical skills acquired thus far. All musical styles of repertoire with an expanded technical development program are covered at this level.  This, together with the acquired musical awareness, enables the teacher to work with the students in a broader field including composition, improvisation, keyboard harmony and extended theoretical components. In our Australian schools, many students will present for the AMEB theory exams, having completed the set syllabus for this level in the Extension curriculum. In our international schools, the examination curriculum in each country for specific theoretical levels are also covered in the Extension Course.
+
+<img src="images/521283.jpg" alt="ismbondi" width="600" height="400">
