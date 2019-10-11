@@ -10,20 +10,13 @@ Segments include:
 
 * Pitch through a structured vocal program of original and known favourites
 * Music with movement and physical response
-
-Creativity
-
-Gross and fine motor skill exposure
-
-Rhythmic response using percussion instruments
-
-Correlation of sounds
-
-Listening skills through music appreciation
-
-Elementary notation and rhythmic reading and writing
-
-Social and verbal interaction, discipline, control, concentration, etc.
+* Creativity
+* Gross and fine motor skill exposure
+* Rhythmic response using percussion instruments
+* Correlation of sounds
+* Listening skills through music appreciation
+* Elementary notation and rhythmic reading and writing
+* Social and verbal interaction, discipline, control, concentration, etc.
 
 ## Pianorama Junior Course  
 
@@ -32,20 +25,13 @@ Social and verbal interaction, discipline, control, concentration, etc.
 <img src="images/18121242_1945394909069149_8174843808573398308_o.jpg" alt="ismbondi" width="600" height="400">
 
 In each 45 minute weekly lesson, the students experience the following:
-
-Piano tuition – technical development, with solo and ensemble experience
-
-Aural (Ear) – to train the musical ear for faster comprehension
-
-Singing – pitch and vocal expression through original, contemporary songs
-
-Percussion – practical experience of learnt rhythmic patterning
-
-Theory – intellectual confirmation of music notation and theoretical elements
-
-Music Appreciation – to develop listening skills and through actions understand musical structure
-
-Musical Games – Fun activities involving learnt skills
+* Piano tuition – technical development, with solo and ensemble experience
+* Aural (Ear) – to train the musical ear for faster comprehension
+* Singing – pitch and vocal expression through original, contemporary songs
+* Percussion – practical experience of learnt rhythmic patterning
+* Theory – intellectual confirmation of music notation and theoretical elements
+* Music Appreciation – to develop listening skills and through actions understand musical structure
+* Musical Games – Fun activities involving learnt skills
 
 ## Pianorama Primary Course
 
@@ -54,24 +40,15 @@ Musical Games – Fun activities involving learnt skills
 <img src="images/26961745_2075500332725272_1848297573837803827_o.jpg" alt="ismbondi" width="600" height="400">
 
 The course includes:
-
-Aural – to develop a musical ear both melodically and rhythmically.
-
-Finger Gym  – to develop technically.
-
-Repertoire  – graded pieces covering all musical styles.
-
-Harmony – practical understanding of harmonic processes.
-
-Ensembles – to enjoy playing different parts as a group.
-
-Theory – consolidation theoretically of music and rhythmic notation and additional music elements.
-
-Music Appreciation – to analyse popular musical classics.
-
-Musical Games – to enjoy testing learnt skills through fun activities.
-
-A comprehensive musical education developing not just the technician but also the musician!
+* Aural – to develop a musical ear both melodically and rhythmically.
+* Finger Gym  – to develop technically.
+* Repertoire  – graded pieces covering all musical styles.
+* Harmony – practical understanding of harmonic processes.
+* Ensembles – to enjoy playing different parts as a group.
+* Theory – consolidation theoretically of music and rhythmic notation and additional music elements.
+* Music Appreciation – to analyse popular musical classics.
+* Musical Games – to enjoy testing learnt skills through fun activities.
+* A comprehensive musical education developing not just the technician but also the musician!
 
 ## Pianorama Intermediate and Extension Courses
 
