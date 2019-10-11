@@ -7,11 +7,17 @@
 In each 45 minute weekly lesson, the students experience the following:
 
 Piano tuition – technical development, with solo and ensemble experience;
+
 Aural (Ear) – to train the musical ear for faster comprehension;
+
 Singing – pitch and vocal expression through original, contemporary songs;
+
 Percussion – practical experience of learnt rhythmic patterning;
+
 Theory – intellectual confirmation of music notation and theoretical elements;
+
 Music Appreciation – to develop listening skills and through actions understand musical structure;
+
 Musical Games – Fun activities involving learnt skills
 
 ## Pianorama Primary Course
