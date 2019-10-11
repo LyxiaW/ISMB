@@ -10,4 +10,4 @@ Half-yearly recitals/ concerts
 
 Winner of Waverly Brights & Best Local Business Awards 2018
 
-<img src="images/Screen-Shot-2018-11-22-at-1.56.31-pm-658x1024.png" alt="businessaward" width="658" height="1024">
+<img src="images/Screen-Shot-2018-11-22-at-1.56.31-pm-658x1024.png" alt="businessaward" width="132" height="205">
