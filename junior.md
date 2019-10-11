@@ -6,17 +6,17 @@
 
 In each 45 minute weekly lesson, the students experience the following:
 
-Piano tuition – technical development, with solo and ensemble experience;
+Piano tuition – technical development, with solo and ensemble experience
 
-Aural (Ear) – to train the musical ear for faster comprehension;
+Aural (Ear) – to train the musical ear for faster comprehension
 
-Singing – pitch and vocal expression through original, contemporary songs;
+Singing – pitch and vocal expression through original, contemporary songs
 
-Percussion – practical experience of learnt rhythmic patterning;
+Percussion – practical experience of learnt rhythmic patterning
 
-Theory – intellectual confirmation of music notation and theoretical elements;
+Theory – intellectual confirmation of music notation and theoretical elements
 
-Music Appreciation – to develop listening skills and through actions understand musical structure;
+Music Appreciation – to develop listening skills and through actions understand musical structure
 
 Musical Games – Fun activities involving learnt skills
 
@@ -29,13 +29,21 @@ Musical Games – Fun activities involving learnt skills
 The course includes:
 
 Aural – to develop a musical ear both melodically and rhythmically.
+
 Finger Gym  – to develop technically.
+
 Repertoire  – graded pieces covering all musical styles.
+
 Harmony – practical understanding of harmonic processes.
+
 Ensembles – to enjoy playing different parts as a group.
+
 Theory – consolidation theoretically of music and rhythmic notation and additional music elements.
+
 Music Appreciation – to analyse popular musical classics.
+
 Musical Games – to enjoy testing learnt skills through fun activities.
+
 A comprehensive musical education developing not just the technician but also the musician!
 
 ## Pianorama Intermediate and Extension Courses
