@@ -1,4 +1,6 @@
-For students  aged  7 – 12 years – Grouped in age in small classes.
+##Pianorama Primary Course
+
+*For students  aged  7 – 12 years – Grouped in age in small classes.*
 
 This course is aimed for students with no previous experience in piano tuition. The focus primarily is to teach the piano as the practical instrument, whilst simultaneously developing strong aural and theoretical skills. Teaching in a group environment for this age is particularly beneficial from the learning perspective, as the students enjoy learning together and aspire to reach standards set by one another. With regular home practice, the students fly through this curriculum and can feel progress from the early stages, which in turn encourages them to continue through to more advanced levels.
 
