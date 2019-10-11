@@ -1,14 +1,10 @@
 ## Why Learn With Us?
 
-Friendly, personalized learning environment
-
-All rounded music education
-
-Half-yearly recitals/ concerts
-
-100% Exam Pass Rates 
-
-Winner of Waverly Brights & Best Local Business Awards 2018
+* Friendly, personalized learning environment
+* All rounded music education
+* Half-yearly recitals/ concerts
+* 100% Exam Pass Rates 
+* Winner of Waverly Brights & Best Local Business Awards 2018
 
 <img src="images/26961745_2075500332725272_1848297573837803827_o.jpg" alt="ismbondi" width="650" height="400">
 
