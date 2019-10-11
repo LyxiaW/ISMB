@@ -5,6 +5,8 @@
 * Guitar
 and more...
 
+<img src="images/michel-catalisano-OZDmI-vO7Io-unsplash.jpg" alt="ismbondi" width="700" height="460">
+
 ## PRIVATE LESSONS
 
 * Personalised one-on-one attention, just teacher and you
