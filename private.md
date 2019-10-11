@@ -5,6 +5,8 @@
 * Guitar
 and more...
 
+<img src="images/nazar-yakymenko-uMz8NJp_xpk-unsplash.jpg" alt="ismbondi" width="700" height="460">
+
 ## PRIVATE LESSONS
 
 * Personalised one-on-one attention, just teacher and you
