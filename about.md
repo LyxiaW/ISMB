@@ -6,7 +6,7 @@
 * 100% Exam Pass Rates 
 * Winner of Waverly Brights & Best Local Business Awards 2018
 
-<img src="images/DSC_0397.JPG" alt="ismbondi" width="700" height="460">
+<img src="images/DSC_0397.jpg" alt="ismbondi" width="700" height="460">
 
 International Schools of Music (ISM) launched in 1997 after extensive research and recognising a need for more contemporary music programs for young students. ISM is now considered a market leader in music education for young students with schools across Australia, New Zealand, Asia, North America and Canada.
 
