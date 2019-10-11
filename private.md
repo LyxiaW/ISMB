@@ -5,7 +5,7 @@
 * Guitar
 and more...
 
-<img src="images/nazar-yakymenko-uMz8NJp_xpk-unsplash.jpg" alt="ismbondi" width="700" height="460">
+<img src="images/michel-catalisano-OZDmI-vO7Io-unsplash.jpg" alt="ismbondi" width="700" height="460">
 
 ## PRIVATE LESSONS
 
