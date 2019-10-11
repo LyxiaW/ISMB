@@ -1,3 +1,31 @@
+## Early Childhood Music
+
+*For students aged 2-3 years*
+
+This age specific program aims to develop all aspects of early music fundamentals for this most receptive age group. It is at this age that we can open the door for children to learn music as a language.
+
+<img src="images/1092012 (1).jpg" alt="ismbondi" width="600" height="400">
+
+Segments include:
+
+Pitch through a structured vocal program of original and known favourites
+
+Music with movement and physical response
+
+Creativity
+
+Gross and fine motor skill exposure
+
+Rhythmic response using percussion instruments
+
+Correlation of sounds
+
+Listening skills through music appreciation
+
+Elementary notation and rhythmic reading and writing
+
+Social and verbal interaction, discipline, control, concentration, etc.
+
 ## Pianorama Junior Course  
 
 *For students  aged  4 – 6 years – Grouped in small age appropriate classes.*
