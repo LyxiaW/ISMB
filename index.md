@@ -1,4 +1,7 @@
-## Welcome to International School of Music Bondi
+---
+layout: default
+title: Welcome to the International School of Music Bondi
+---
 
 <img src="images/18121242_1945394909069149_8174843808573398308_o.jpg" alt="ismbondi" width="800" height="520">
 
