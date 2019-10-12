@@ -1,3 +1,7 @@
+---
+layout: default
+title: About Us
+---
 ## Why Learn With Us?
 
 * Friendly, personalized learning environment

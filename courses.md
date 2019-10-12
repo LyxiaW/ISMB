@@ -1,3 +1,7 @@
+---
+layout: default
+title: Group Courses
+---
 ## Early Childhood Music
 
 *For students aged 2-3 years*

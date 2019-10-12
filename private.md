@@ -1,3 +1,8 @@
+---
+layout: default
+title: Private Lessons
+---
+
 ## Instruments offered
 * Piano/ Keyboard
 * Violin
