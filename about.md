@@ -2,13 +2,18 @@
 layout: default
 title: About Us
 ---
+
+## Address
+
+Shop 1/ 79-85 Oxford St, Bondi Junction
+
 ## Why Learn With Us?
 
-* Friendly, personalized learning environment
-* All rounded music education
-* Half-yearly recitals/ concerts
-* 100% Exam Pass Rates 
-* Winner of Waverly Brights & Best Local Business Awards 2018
+- Friendly, personalized learning environment
+- All rounded music education
+- Half-yearly recitals/ concerts
+- 100% Exam Pass Rates
+- Winner of Waverly Brights & Best Local Business Awards 2018
 
 <img src="images/DSC_0397.JPG" alt="ismbondi" width="700" height="460">
 
