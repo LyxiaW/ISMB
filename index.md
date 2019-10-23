@@ -8,7 +8,7 @@ Our aim is to teach music as a language, with all skills being developed simulta
 
 The comprehensive concept of ISM courses is simple: 
 
-**"What you hear, you sing; what you sing, you play; what you play, you read; what you read, you write."**
+**"What you hear, you Sing; What you Sing, you Play; What you Play, you Read; What you Read, you Write."**
 
 <img src="images/group_piano_lessons_bondi-1x.jpg" alt="ismbondi">
 
@@ -28,10 +28,3 @@ The comprehensive concept of ISM courses is simple:
 The school is dedicated to musical education at its best and its skilled and passionate teachers work enthusiastically towards this end with excellent results.*
 
 **– Joan Keogh (Grandparent)**
-
-
-### Contact Us
-
-Address: Shop 1/ 79-85 Oxford St, Bondi Junction
-
-Email: ismbondi@ismaustralia.com
