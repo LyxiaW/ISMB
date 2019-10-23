@@ -57,9 +57,10 @@ The course includes:
 ## Pianorama Intermediate and Extension Courses
 
 For Junior and Primary Course graduates:
+
+<img src="images/521283.jpg" alt="ismbondi" width="600" height="400">
+
 * Builds and expands on musical and technical skills acquired thus far
 * All musical styles of repertoire explored with an expanded technical development program
 * Composition, improvisation, keyboard harmony and extended theoretical components
 * Option to sit practical or theory examinations
-
-<img src="images/521283.jpg" alt="ismbondi" width="600" height="400">
