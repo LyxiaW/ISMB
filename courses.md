@@ -15,7 +15,7 @@ title: Group Courses
 
 This age specific program aims to develop all aspects of early music fundamentals for this most receptive age group. It is at this age that we can open the door for children to learn music as a language.
 
-<img src="images/roup_music_lessons_for_kids_bondi-1x.jpg" alt="ismbondi">
+<img src="images/group_music_lessons_for_kids_bondi-1x.jpg" alt="ismbondi">
 
 Segments include:
 
