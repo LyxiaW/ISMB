@@ -9,7 +9,7 @@ title: Welcome to the International School of Music Bondi
 - Results-driven through clear goals and communication follow-up
 - All styles of music taught from Bach and Mozart to Jazz and Pop songs
 - Half-yearly recitals/ concerts
-- 100% Exam Pass Rates
+- 100% Exam Pass Rates (AMEB, ABRSM, TRINITY)
 - Winner of Waverly Brights & Best Local Business Awards 2018
 
 <img class="w-100" srcset="
