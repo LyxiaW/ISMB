@@ -11,7 +11,7 @@ The comprehensive concept of ISM courses is simple:
 
 **"What you hear, you Sing; What you Sing, you Play; What you Play, you Read; What you Read, you Write."**
 
-<img src="images/group_piano_lessons_bondi-1x.jpg" alt="ismbondi">
+<img src="images/group_piano_lessons_bondi-1x.jpg" alt="group piano lessons bondi" class="w-100">
 
 International Schools of Music (ISM) launched in 1997 after extensive research and recognising a need for more contemporary music programs for young students. ISM is now considered a market leader in music education for young students with schools across Australia, New Zealand, Asia, North America and Canada.
 

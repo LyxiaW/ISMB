@@ -15,7 +15,7 @@ title: Group Courses
 
 This age specific program aims to develop all aspects of early music fundamentals for this most receptive age group. It is at this age that we can open the door for children to learn music as a language.
 
-<img src="images/group_music_lessons_for_kids_bondi-1x.jpg" alt="ismbondi">
+<img src="images/group_music_lessons_for_kids_bondi-1x.jpg" alt="group music lessons for kids bondi" class="w-100">
 
 Segments include:
 
@@ -33,7 +33,7 @@ Segments include:
 
 *For students  aged  4 – 6 years – Grouped in small age appropriate classes.*
 
-<img src="images/18121242_1945394909069149_8174843808573398308_o.jpg" alt="ismbondi" width="600" height="400">
+<img src="images/group_piano_lessons_bondi-1x.jpg" alt="group piano lessons bondi" class="w-100">
 
 In each 45 minute weekly lesson, the students experience the following:
 * Piano tuition – technical development, with solo and ensemble experience
@@ -52,7 +52,7 @@ In each 45 minute weekly lesson, the students experience the following:
 images/group_music_class_for_kids_bondi-1x.jpg,
 images/group_music_class_for_kids_bondi-2x.jpg,
 images/group_music_class_for_kids_bondi-3x.jpg"
-src="images/group_music_class_for_kids_bondi-1x.jpg" alt="ismbondi"/>
+src="images/group_music_class_for_kids_bondi-1x.jpg" alt="group music class for kids bondi"/>
 
 The course includes:
 * Aural – to develop a musical ear both melodically and rhythmically.
@@ -69,7 +69,7 @@ The course includes:
 
 *For Junior and Primary Course graduates:*
 
-<img src="images/piano_lessons_bondi-1x.jpg" alt="ismbondi">
+<img src="images/piano_lessons_bondi-1x.jpg" alt="piano lessons bondi" class="w-100">
 
 * Builds and expands on musical and technical skills acquired thus far
 * All musical styles of repertoire explored with an expanded technical development program

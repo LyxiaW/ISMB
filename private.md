@@ -33,4 +33,8 @@ Consists of:
 
 *Great if you have a family member/friend you want to learn with!*
 
-<img src="images/violin_lessons_bondi-1x.jpg" alt="ismbondi">
+<img class="w-100" srcset="
+images/music_lessons_bondi-1x.jpeg 1x,
+images/music_lessons_bondi-2x.jpeg 2x,
+images/music_lessons_bondi-3x.jpeg 3x"
+src="images/music_lessons_bondi-1x.jpeg" alt="music lessons bondi"/>

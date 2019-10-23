@@ -16,7 +16,7 @@ title: Welcome to the International School of Music Bondi
 images/music_lessons_bondi-1x.jpeg 1x,
 images/music_lessons_bondi-2x.jpeg 2x,
 images/music_lessons_bondi-3x.jpeg 3x"
-src="images/music_lessons_bondi-1x.jpeg" alt="ismbondi"/>
+src="images/music_lessons_bondi-1x.jpeg" alt="music lessons bondi"/>
 
 ## Testimonials
 
