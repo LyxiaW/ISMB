@@ -74,4 +74,4 @@ The course includes:
 * Builds and expands on musical and technical skills acquired thus far
 * All musical styles of repertoire explored with an expanded technical development program
 * Composition, improvisation, keyboard harmony and extended theoretical components
-* Option to sit practical or theory examinations
+* Option to sit practical or theory examinations (AMEB, ABRSM, Trinity)
