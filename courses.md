@@ -52,7 +52,7 @@ In each 45 minute weekly lesson, the students experience the following:
 images/group_music_class_for_kids_bondi-1x.jpg,
 images/group_music_class_for_kids_bondi-2x.jpg,
 images/group_music_class_for_kids_bondi-3x.jpg"
-src="images/mgroup_music_class_for_kids_bondi-1x.jpg" alt="ismbondi"/>
+src="images/group_music_class_for_kids_bondi-1x.jpg" alt="ismbondi"/>
 
 The course includes:
 * Aural – to develop a musical ear both melodically and rhythmically.
