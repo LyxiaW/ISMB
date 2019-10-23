@@ -5,8 +5,10 @@ title: About Us
 
 ## Why Learn With Us?
 
-- Friendly, personalized learning environment
-- All rounded music education
+- Friendly, personalized and engaging learning environment catered towards you
+- All rounded and holistic music education
+- Results-driven through clear goals and communication follow-up
+- All styles of music taught from Bach and Mozart to Jazz and Pop songs
 - Half-yearly recitals/ concerts
 - 100% Exam Pass Rates
 - Winner of Waverly Brights & Best Local Business Awards 2018
