@@ -3,8 +3,29 @@
 ---
 
 .footer {
+  color: white;
   a {
-    color: black;
+    color: white;
     text-decoration: none;
+  }
+}
+
+.header {
+  background-color: #6bd7ff;
+}
+
+.bg-custom {
+  background-color: #03a9f4;
+  background-image: none;
+}
+
+.bg-custom-light {
+  background-color: #67daff;
+}
+
+main.main-content {
+  h1,
+  h2 {
+    color: #007ac1;
   }
 }
