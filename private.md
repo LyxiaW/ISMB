@@ -10,22 +10,20 @@ title: Private Lessons
 * Guitar
 and more...
 
-## Private Lessons
+## Private Lessons 
 
-$85/hr
+## $85/hr
 
-$65/45mins
+## $65/45mins
 
-$45/30mins
+## $45/30mins
 
 * Personalised one-on-one attention, just teacher and you
 * Customised classes to meet your specific needs and goals
 * Option to enter examinations and competitions
 * Learn at your own pace
 
-## Rotating Private Lessons
-
-$55/hr
+## Rotating Private Lessons $55/hr
 
 Consists of:
 - 30 minutes of one-on-one instrumental tuition.
