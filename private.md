@@ -34,7 +34,7 @@ Consists of:
 *Great if you have a family member/friend you want to learn with!*
 
 <img class="w-100" srcset="
-images/music_lessons_bondi-1x.jpeg 1x,
-images/music_lessons_bondi-2x.jpeg 2x,
-images/music_lessons_bondi-3x.jpeg 3x"
-src="images/music_lessons_bondi-1x.jpeg" alt="music lessons bondi"/>
+images/private_music_lessons_bondi-1x.png 1x,
+images/private_music_lessons_bondi-2x.png 2x,
+images/private_music_lessons_bondi-3x.png 3x"
+src="images/private_music_lessons_bondi-1x.jpeg" alt="private music lessons bondi"/>
