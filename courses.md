@@ -56,6 +56,10 @@ The course includes:
 
 ## Pianorama Intermediate and Extension Courses
 
-For Junior and Primary Course graduates, to further expand musical and technical skills acquired thus far. All musical styles of repertoire with an expanded technical development program are covered at this level.  This, together with the acquired musical awareness, enables the teacher to work with the students in a broader field including composition, improvisation, keyboard harmony and extended theoretical components. In our Australian schools, many students will present for the AMEB theory exams, having completed the set syllabus for this level in the Extension curriculum. In our international schools, the examination curriculum in each country for specific theoretical levels are also covered in the Extension Course.
+For Junior and Primary Course graduates:
+* Builds and expands on musical and technical skills acquired thus far
+* All musical styles of repertoire explored with an expanded technical development program
+* Composition, improvisation, keyboard harmony and extended theoretical components
+* Option to sit practical or theory examinations
 
 <img src="images/521283.jpg" alt="ismbondi" width="600" height="400">
