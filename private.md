@@ -10,24 +10,27 @@ title: Private Lessons
 * Guitar
 and more...
 
-<img src="images/michel-catalisano-OZDmI-vO7Io-unsplash.jpg" alt="ismbondi" width="700" height="460">
+## Private Lessons 
 
-## Private Lessons
+$85/hr
+
+$65/45mins
+
+$45/30mins
 
 * Personalised one-on-one attention, just teacher and you
 * Customised classes to meet your specific needs and goals
+* Option to enter examinations and competitions
 * Learn at your own pace
 
-$85/HR
+## Rotating Private Lessons 
 
-$65/45 MINS
+$55/hr
 
-$45/30 MINS
-
-## Rotating Private Lessons
-$55/HR
 Consists of:
 - 30 minutes of one-on-one instrumental tuition.
 - 30 minutes of independent work assigned by the teacher ranging from theory, sight reading to composition and aural.
 
 *Great if you have a family member/friend you want to learn with!*
+
+<img src="images/violin_lessons_bondi-1x.jpg" alt="ismbondi">

@@ -2,8 +2,21 @@
 layout: default
 title: Welcome to the International School of Music Bondi
 ---
+## Why Learn With Us?
 
-<img src="images/18121242_1945394909069149_8174843808573398308_o.jpg" alt="ismbondi" width="800" height="520">
+- Friendly, personalized and an engaging learning environment catered towards you
+- All rounded and holistic music education
+- Results-driven through clear goals and communication follow-up
+- All styles of music taught from Bach and Mozart to Jazz and Pop songs
+- Half-yearly recitals/ concerts
+- 100% Exam Pass Rates
+- Winner of Waverly Brights & Best Local Business Awards 2018
+
+<img class="w-100" srcset="
+images/music_lessons_bondi-1x.jpeg 1x,
+images/music_lessons_bondi-2x.jpeg 2x,
+images/music_lessons_bondi-3x.jpeg 3x"
+src="images/music_lessons_bondi-1x.jpeg" alt="ismbondi"/>
 
 ## Testimonials
 
@@ -21,10 +34,3 @@ title: Welcome to the International School of Music Bondi
 The school is dedicated to musical education at its best and its skilled and passionate teachers work enthusiastically towards this end with excellent results.*
 
 **– Joan Keogh (Grandparent)**
-
-
-### Contact Us
-
-Address: Shop 1/ 79-85 Oxford St, Bondi Junction
-
-Email: ismbondi@ismaustralia.com
