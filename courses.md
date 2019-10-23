@@ -48,7 +48,11 @@ In each 45 minute weekly lesson, the students experience the following:
 
 *For students  aged  7 – 12 years – Grouped in small age appropriate classes.*
 
-<img src="images/group_piano_lessons_bondi-1x.jpg" alt="ismbondi">
+<img class="w-100" srcset="
+images/group_music_class_for_kids_bondi-1x.jpg,
+images/group_music_class_for_kids_bondi-2x.jpg,
+images/group_music_class_for_kids_bondi-3x.jpg"
+src="images/mgroup_music_class_for_kids_bondi-1x.jpg" alt="ismbondi"/>
 
 The course includes:
 * Aural – to develop a musical ear both melodically and rhythmically.
