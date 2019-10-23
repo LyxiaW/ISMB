@@ -37,4 +37,4 @@ Consists of:
 images/private_music_lessons_bondi-1x.png 1x,
 images/private_music_lessons_bondi-2x.png 2x,
 images/private_music_lessons_bondi-3x.png 3x"
-src="images/private_music_lessons_bondi-1x.jpeg" alt="private music lessons bondi"/>
+src="images/private_music_lessons_bondi-1x.png" alt="private music lessons bondi"/>
