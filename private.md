@@ -12,7 +12,7 @@ and more...
 
 <img src="images/michel-catalisano-OZDmI-vO7Io-unsplash.jpg" alt="ismbondi" width="700" height="460">
 
-## PRIVATE LESSONS
+## Private Lessons
 
 * Personalised one-on-one attention, just teacher and you
 * Customised classes to meet your specific needs and goals
@@ -24,7 +24,7 @@ $65/45 MINS
 
 $45/30 MINS
 
-## ROTATING PRIVATE LESSONS
+## Rotating Private Lessons
 $55/HR
 Consists of:
 - 30 minutes of one-on-one instrumental tuition.
