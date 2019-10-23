@@ -5,7 +5,7 @@ title: About Us
 
 ## Why Learn With Us?
 
-- Friendly, personalized and engaging learning environment catered towards you
+- Friendly, personalized and an engaging learning environment catered towards you
 - All rounded and holistic music education
 - Results-driven through clear goals and communication follow-up
 - All styles of music taught from Bach and Mozart to Jazz and Pop songs
