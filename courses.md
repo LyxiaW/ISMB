@@ -33,7 +33,7 @@ Segments include:
 
 *For students  aged  4 – 6 years – Grouped in small age appropriate classes.*
 
-<img src="images/group_piano_lessons_bondi-1x.jpg" alt="group piano lessons bondi" class="w-100">>
+<img src="images/group_piano_lessons_bondi-1x.jpg" alt="group piano lessons bondi" class="w-100">
 
 In each 45 minute weekly lesson, the students experience the following:
 * Piano tuition – technical development, with solo and ensemble experience
