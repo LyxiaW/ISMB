@@ -20,7 +20,7 @@ $45/30mins
 
 * Personalised one-on-one attention, just teacher and you
 * Customised classes to meet your specific needs and goals
-* Option to enter examinations and competitions
+* Option to enter examinations (AMEB, ABRSM, Trinity) and competitions
 * Learn at your own pace
 
 ## Rotating Private Lessons 
