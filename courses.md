@@ -56,7 +56,7 @@ The course includes:
 
 ## Pianorama Intermediate and Extension Courses
 
-For Junior and Primary Course graduates:
+*For Junior and Primary Course graduates:*
 
 <img src="images/521283.jpg" alt="ismbondi" width="600" height="400">
 
