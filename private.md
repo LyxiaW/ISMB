@@ -12,11 +12,11 @@ and more...
 
 ## Private Lessons 
 
-## $85/hr
+$85/hr
 
-## $65/45mins
+$65/45mins
 
-## $45/30mins
+$45/30mins
 
 * Personalised one-on-one attention, just teacher and you
 * Customised classes to meet your specific needs and goals
