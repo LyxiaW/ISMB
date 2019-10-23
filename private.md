@@ -13,7 +13,9 @@ and more...
 ## Private Lessons
 
 $85/HR
+
 $65/45 MINS
+
 $45/30 MINS
 
 * Personalised one-on-one attention, just teacher and you
