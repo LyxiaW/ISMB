@@ -3,21 +3,15 @@ layout: default
 title: About Us
 ---
 
-## Why Learn With Us?
+## Comprehensive, contemporary and interactive, group and private music education for all ages.
 
-- Friendly, personalized and an engaging learning environment catered towards you
-- All rounded and holistic music education
-- Results-driven through clear goals and communication follow-up
-- All styles of music taught from Bach and Mozart to Jazz and Pop songs
-- Half-yearly recitals/ concerts
-- 100% Exam Pass Rates
-- Winner of Waverly Brights & Best Local Business Awards 2018
+Our aim is to teach music as a language, with all skills being developed simultaneously. The instruction is aurally based to maximise learning in young students, encouraging not only a love of music, but an understanding of music.
 
-<img class="w-100" srcset="
-images/music_lessons_bondi-1x.jpeg 1x,
-images/music_lessons_bondi-2x.jpeg 2x,
-images/music_lessons_bondi-3x.jpeg 3x"
-src="images/music_lessons_bondi-1x.jpeg" alt="ismbondi"/>
+The comprehensive concept of ISM courses is simple: 
+
+**"What you hear, you Sing; What you Sing, you Play; What you Play, you Read; What you Read, you Write."**
+
+<img src="images/group_piano_lessons_bondi-1x.jpg" alt="ismbondi">
 
 International Schools of Music (ISM) launched in 1997 after extensive research and recognising a need for more contemporary music programs for young students. ISM is now considered a market leader in music education for young students with schools across Australia, New Zealand, Asia, North America and Canada.
 
