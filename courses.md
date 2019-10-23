@@ -2,6 +2,13 @@
 layout: default
 title: Group Courses
 ---
+
+## Instruments offered
+* Piano/ Keyboard
+* Violin
+* Voice
+* Guitar
+
 ## Early Childhood Music
 
 *For students aged 2-3 years*
