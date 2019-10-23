@@ -12,19 +12,20 @@ and more...
 
 ## Private Lessons
 
-$85/HR
+$85/hr
 
-$65/45 MINS
+$65/45mins
 
-$45/30 MINS
+$45/30mins
 
 * Personalised one-on-one attention, just teacher and you
 * Customised classes to meet your specific needs and goals
+* Option to enter examinations and competitions
 * Learn at your own pace
 
 ## Rotating Private Lessons
 
-$55/HR
+$55/hr
 
 Consists of:
 - 30 minutes of one-on-one instrumental tuition.
