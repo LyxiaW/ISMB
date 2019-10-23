@@ -23,7 +23,9 @@ $45/30mins
 * Option to enter examinations and competitions
 * Learn at your own pace
 
-## Rotating Private Lessons $55/hr
+## Rotating Private Lessons 
+
+$55/hr
 
 Consists of:
 - 30 minutes of one-on-one instrumental tuition.
