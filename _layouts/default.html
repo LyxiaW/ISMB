@@ -12,7 +12,7 @@
   </script>
   {% endif %}
   <meta charset="UTF-8">
-
+  <!--load hosted font-awesome -->
   {% seo %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
@@ -20,6 +20,9 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link href="/assets/css/all.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -36,6 +39,35 @@
   <main id="content" class="main-content" role="main">
     {{ content }}
   </main>
+  <div class="footer bg-light p-3">
+    <div class="container">
+      <div class="d-flex">
+        <div class="h5">
+          ISM Bondi
+        </div>
+        <div class="ml-4">
+          <div>
+            Shop 1/ 79-85 Oxford St, Bondi Junction
+          </div>
+          <div>
+            <a href="mailto:ismbondi@ismaustralia.com">ismbondi@ismaustralia.com</a>
+          </div>
+          <div class="mt-1">
+            <a href="https://www.facebook.com/ISMBONDI/">
+              <i class="fab fa-facebook fa-2x"></i>
+            </a>
+            <a href="https://www.instagram.com/ismbondi/">
+              <i class="fab fa-instagram fa-2x ml-2"></i>
+            </a>
+            <a href="https://www.linkedin.com/company/ism-bondi-music-school/">
+              <i class="fab fa-linkedin fa-2x ml-2"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    </footer>
 </body>
 
 </html>
