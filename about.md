@@ -25,7 +25,3 @@ Our main aim is to foster a love of music using the piano as the practical instr
 Our aim is to teach music as a language, with all skills being developed simultaneously. The instruction is aurally based to maximise learning in young students, encouraging not only a love of music, but an understanding of music.
 
 The International School of Music provides beginner to advanced music courses in group and private settings for students from 2 years of age to adults. All our programs cover a wide variety of musical styles and are supported by speed variable backing tracks, carefully structured to maximise the benefit to each student and foster technically and musically all rounded musicians.
-
-## Address
-
-Shop 1/ 79-85 Oxford St, Bondi Junction
