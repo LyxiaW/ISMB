@@ -11,7 +11,11 @@ title: About Us
 - 100% Exam Pass Rates
 - Winner of Waverly Brights & Best Local Business Awards 2018
 
-<img src="images/DSC_0397.JPG" alt="ismbondi" width="700" height="460">
+<img class="w-100" srcset="
+images/music_lessons_bondi-1x.jpeg 1x,
+images/music_lessons_bondi-2x.jpeg 2x,
+images/music_lessons_bondi-3x.jpeg 3x"
+src="images/music_lessons_bondi-1x.jpeg" alt="ismbondi"/>
 
 International Schools of Music (ISM) launched in 1997 after extensive research and recognising a need for more contemporary music programs for young students. ISM is now considered a market leader in music education for young students with schools across Australia, New Zealand, Asia, North America and Canada.
 
