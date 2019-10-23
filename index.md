@@ -7,7 +7,8 @@ title: Welcome to the International School of Music Bondi
 Our aim is to teach music as a language, with all skills being developed simultaneously. The instruction is aurally based to maximise learning in young students, encouraging not only a love of music, but an understanding of music.
 
 The comprehensive concept of ISM courses is simple: 
-*"What you hear, you sing; what you sing, you play; what you play, you read; what you read, you write."*
+
+**"What you hear, you sing; what you sing, you play; what you play, you read; what you read, you write."**
 
 <img src="images/group_piano_lessons_bondi-1x.jpg" alt="ismbondi">
 
