@@ -3,6 +3,16 @@ layout: default
 title: Group Courses
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129670238-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129670238-1');
+</script>
+
 ## Instruments offered
 * Piano/ Keyboard
 * Violin
