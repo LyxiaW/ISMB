@@ -14,6 +14,7 @@ title: Welcome to the International School of Music Bondi
 
 ## Why Learn With Us?
 
+- Educated, Experienced and Certified Music Teachers with exceptional communication skills
 - Friendly, personalized and an engaging learning environment catered towards you
 - All rounded and holistic music education
 - Results-driven through clear goals and communication follow-up
@@ -30,7 +31,7 @@ src="images/music_lessons_bondi-1x.jpeg" alt="music lessons bondi"/>
 
 ## Testimonials
 
-*My two sons have been attending ISM Bondi for a number of years now starting when they they were aged 4. They absolutely love their piano classes and have learnt so much in a short amount of time. They have attended both Group and Private lessons and continue to excel every week. The teachers are caring, encouraging and show pride in their students. I would highly recommend to parents who are looking to place their children into piano classes*
+*My two sons have been attending ISM Bondi for a number of years now starting when they they were aged 4. They absolutely love their piano classes and have learnt so much in a short amount of time. They have attended both Group and Private lessons and continue to excel every week. The music teachers are caring, encouraging and show pride in their students. I would highly recommend to parents who are looking to place their children into piano classes*
 
 **– Kerrie Dedecke (Parent)**
  
