@@ -16,9 +16,11 @@ title: Welcome to the International School of Music Bondi
 
 - Educated, Experienced and Certified Music Teachers with exceptional communication skills
 - Friendly, personalized and an engaging learning environment catered towards you
-- All rounded and holistic music education
+- All rounded and holistic music education- nuturing students into great instrumentalists and musicians!
+- Our priority is to nuture a love and appreciation for music
 - Results-driven through clear goals and communication follow-up
 - All styles of music taught from Bach and Mozart to Jazz and Pop songs
+- Wpporunity to perform and gain confidence 
 - Half-yearly recitals/ concerts
 - 100% Exam Pass Rates (AMEB, ABRSM, TRINITY)
 - Winner of Waverly Brights & Best Local Business Awards 2018
