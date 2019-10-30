@@ -1,14 +1,14 @@
 ## Frequently Asked Questions
 
-# What kind of results will I/ my child see through ISM Bondi? 
+# What kind of results will I/ my child see through ISM Bondi? #
 
-# How much are lessons?
+# How much are lessons? #
 
-# How do I enrol?
+# How do I enrol? #
 
-# How does music education help my child at school?
+# How does music education help my child at school? #
 
-# What is my role as a parent?
+# What is my role as a parent? #
 
 # Can adults learn music?
 
