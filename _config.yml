@@ -1,7 +1,9 @@
-theme: jekyll-theme-cayman
 title: International School of Music Bondi
 description: We Teach Music Differently
-
+baseurl: ""
 url: "https://ismbondi.com.au" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-sitemap
