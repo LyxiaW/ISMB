@@ -1,10 +1,8 @@
 ## Frequently Asked Questions
 
-**What kind of results will I/ my child see through ISM Bondi?**
+**How do I enrol?**
 
 **How much are lessons?**
-
-**How do I enrol?**
 
 **How does music education help my child at school?**
 
