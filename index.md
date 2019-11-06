@@ -11,7 +11,7 @@ title: Welcome to the International School of Music Bondi
 - Our priority is to nuture a love and appreciation for music
 - Results-driven through clear goals and communication follow-up
 - All styles of music taught from Bach and Mozart to Jazz and Pop songs
-- Wpporunity to perform and gain confidence
+- Opporunity to perform and gain confidence
 - Half-yearly recitals/ concerts
 - 100% Exam Pass Rates (AMEB, ABRSM, TRINITY)
 - Winner of Waverly Brights & Best Local Business Awards 2018
