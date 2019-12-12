@@ -7,7 +7,7 @@ title: Studio Policies
 
 PAYMENT
 
-* A yearly registration fee of $50 per family is required to secure your spot and covers 2 concerts as well as administrative costs. Your spot in a class is open for other students until registration has been completed.
+* A registration fee of $50 per family is applied upon completing registration to secure your spot for the year and covers 2 concerts as well as administrative costs. Your spot in a class is open for other students until registration has been completed.
 
 * Tuition is spread equally over the course of a year and automatically charged each month in advance. Students are allocated 40 lessons per year (10 each term)- this amount is divided evenly between 12 months of the year. This means that whether there are 5 or 2 lessons in that month, the tuition fee is exactly the same.
 
