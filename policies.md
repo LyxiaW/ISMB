@@ -27,7 +27,7 @@ SIBLING AND PARENT ATTENDANCE
 
 * Siblings may be in the classroom only if necessary with parent/guardian supervision but will not be included in class activities or given instruments/ crayons. It is the caregiver’s responsibility to take the sibling out if they are causing a distraction
 
-* ISM programmes are aurally based and it is important that the students are able to hear and concentrate at all times. Please do not take offense if your teacher asks you to take the sibling out of the class- they are prioritizing the learning of the students in the class.
+* ISM programs are aurally based and it is important that the students are able to hear and concentrate at all times. Please do not take offense if your teacher asks you to take the sibling out of the class- they are prioritizing the learning of the students in the class.
 
 FOOD & DRINK/ KEEPING CLEAN
 
@@ -39,7 +39,7 @@ BEHAVIOUR
 
 * Disruptive behavior during classes will not be tolerated and offending students may be asked to leave the school at the discretion of the teacher
 
-* ISM Bondi reserves the right to forward costs of repair or replacement of any damages to the premises or instruments as a result of negligence by a member of attending familites
+* ISM Bondi reserves the right to forward costs of repair or replacement of any damages to the premises or instruments as a result of negligence by a member of attending families
 
 PHOTOGRAPHY
 
